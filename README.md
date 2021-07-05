@@ -19,4 +19,7 @@ Decrypting Victims File
 => reply your victims with Decryption Tool and Passsword File             
 
 # DISCLAIMER  
-Do not attempt to tempt the law with anything contained here. Ths tool is for educational and research purposes. I will not be responsible for any illegal action executed. You shall not use this tool to harm a victim or  execute the ransomare on a computer without the users permission however,you can try tool implementation on your  personal computer, but at your own risk. If proven by law, this is a punishable act.       # Future Development Incase of need to further the program, Contact me.
+Do not attempt to tempt the law with anything contained here. Ths tool is for educational and research purposes. I will not be responsible for any illegal action executed. You shall not use this tool to harm a victim or  execute the ransomare on a computer without the users permission however,you can try tool implementation on your  personal computer, but at your own risk. If proven by law, this is a punishable act.       
+
+# Future Development 
+Incase of need to further the program, Contact me.
